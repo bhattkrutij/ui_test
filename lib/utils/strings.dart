@@ -1,0 +1,17 @@
+const String appName = "DlumeBiz";
+const String trailExpires = "Trial expires in 14 days";
+const String home = "Home";
+const String items = "Items";
+const String banking = "Banking";
+const String sales = "Sales";
+const String purchases = "Purchases";
+const String timeTracking = "Time Tracking";
+const String accountant = "Accountant";
+const String reports = "Reports";
+const String documents = "Documents";
+const String payrolls = "Payrolls";
+const String salseMenu1 = "SALSEMENU1";
+const String salseMenu2 = "salseMenu2";
+const String hello = "Hello, D\'Lume";
+const String emailText = "info@dlume.com";
+const String newText = "New";
